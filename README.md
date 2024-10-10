@@ -88,11 +88,3 @@ This is a RESTful API for a banking application built using Spring Boot. The API
 - **Delete Account**
   - `DELETE /api/accounts/{id}`
 
-## Running Tests
-
-To run the tests, use the following command:
-
-```bash
-./mvnw test
-````
-
